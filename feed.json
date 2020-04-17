@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "iFixie",
+    "description": "",
+    "home_page_url": "https://donaldlsayers.github.io/donaldlsayers.gitgub.io",
+    "feed_url": "https://donaldlsayers.github.io/donaldlsayers.gitgub.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Donald Sayers"
+    },
+    "items": [
+        {
+            "id": "https://donaldlsayers.github.io/donaldlsayers.gitgub.io/test.html",
+            "url": "https://donaldlsayers.github.io/donaldlsayers.gitgub.io/test.html",
+            "title": "Test!",
+            "summary": "cool!",
+            "content_html": "cool!",
+            "author": {
+                "name": "Donald Sayers"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-16T20:10:38-04:00",
+            "date_modified": "2020-04-16T20:10:38-04:00"
+        }
+    ]
+}
